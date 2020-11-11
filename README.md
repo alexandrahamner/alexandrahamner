@@ -2,7 +2,7 @@
 
 ---
 
-<h2 align="center">Hello there! My name is Alexandra Hamner. 🌻</h2>
+<h2 align="center">Hello there! 🌻</h2>
 
 * 🔭 I’m currently studying Full Stack Web Development at Codeup
 * 🌱 I’m currently learning Java, MySQL, Reactjs and Wordpress
