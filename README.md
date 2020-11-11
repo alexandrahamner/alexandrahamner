@@ -1,10 +1,4 @@
-<!--
-**alexandrahamner/alexandrahamner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-Here are some ideas to get you started:
+![Header](https://github.com/alexandrahamner/alexandrahamner/blob/main/readme_header.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,6 +8,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-![Header](https://alexandrahamner.github.com/images/readme_header.png)
+
