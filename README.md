@@ -5,7 +5,7 @@
 <h2 align="center">Hello there! 🌻</h2>
 
 * 🔭 I’m currently studying Full Stack Web Development at Codeup
-* 🌱 I’m currently learning Java, MySQL, Reactjs and Wordpress
+* 🌱 I’m currently learning SpringBoot, Thymeleaf, Reactjs and Wordpress
 * 💬 Ask me about projects I am working on or my cats. 🐱
 * 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alexandrahamner/ "Linkedin")
 * 😄 Pronouns: She/Her
