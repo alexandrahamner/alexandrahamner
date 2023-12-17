@@ -4,21 +4,10 @@
 
 <h2 align="center">Hello there! 🌻</h2>
 
-* 🔭 I’m currently studying Front-end Web Development and Agile Methodologies
 * 🌱 I’m currently learning Reactjs, GraphQL, Gatsby, and SCSS
 * 💬 Ask me about projects I am working on or my cats. 🐱
 * 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alexandrahamner/ "Linkedin")
 * 😄 Pronouns: She/Her
-
----
-
-  
-![ALLY'S github stats](https://github-readme-stats.vercel.app/api?username=alexandrahamner&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrahamner&theme=synthwave&layout=compact)](https://github.com/alexandrahamner/github-readme-stats)
-
 
 ---
 
